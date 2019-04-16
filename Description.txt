@@ -1,0 +1,5 @@
+Hole Counting
+
+Trata-se de um software desenvolvido para auxilar na contagem de furos 
+presentes nas camadas de filme. 
+
